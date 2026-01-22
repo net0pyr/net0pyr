@@ -40,7 +40,7 @@ I build and maintain infrastructure, write about containerization and monitoring
 | Project | Description | Contribution |
 |---------|-------------|--------------|
 | [SRC-doo/netbox-ssot](https://github.com/SRC-doo/netbox-ssot) | Go microservice for syncing VMware, Proxmox, oVirt and other sources into NetBox (SSOT) | Feature development |
-
+| [ansible/ansible](https://github.com/ansible/ansible) | Automation platform for configuration management and application deployment | Bugfix: user module home directory side effect ([PR #86415](https://github.com/ansible/ansible/pull/86415)) |
 ---
 
 ## 📝 Latest Articles on Habr
