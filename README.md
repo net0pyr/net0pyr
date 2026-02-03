@@ -36,9 +36,9 @@ I build and maintain infrastructure, write about containerization and monitoring
 ---
 
 ## 🤝 Open Source Contributions
-
 | Project | Description | Contribution |
 |---------|-------------|--------------|
+| [grafana/grafana](https://github.com/grafana/grafana) | Open-source observability and monitoring platform | Feature: Add NOT operator support in SQL transformations ([PR #116802](https://github.com/grafana/grafana/pull/116802)) |
 | [SRC-doo/netbox-ssot](https://github.com/SRC-doo/netbox-ssot) | Go microservice for syncing VMware, Proxmox, oVirt and other sources into NetBox (SSOT) | Feature development |
 | [ansible/ansible](https://github.com/ansible/ansible) | Automation platform for configuration management and application deployment | Bugfix: user module home directory side effect ([PR #86415](https://github.com/ansible/ansible/pull/86415)) |
 ---
